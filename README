@@ -7,3 +7,5 @@ A small Python greeting example for learning Git and GitHub.
 Run tests: python -m unittest -v
 
 Workflow: practice branches and pull requests.
+
+Example: greet("GitHub") returns "Hello, GitHub!". Blank names raise ValueError.
