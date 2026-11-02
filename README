@@ -6,6 +6,7 @@ A small Python greeting example for learning Git and GitHub.
 
 Run tests: python -m unittest -v
 
-Workflow: pull the latest main branch before integrating changes.
+Workflow: pull the latest main branch, create feature branches, review changes, and open pull requests.
+
 
 Example: greet("GitHub") returns "Hello, GitHub!". Blank names raise ValueError.
