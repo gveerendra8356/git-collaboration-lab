@@ -1,1 +1,9 @@
 Hello World!
+
+# Git collaboration lab
+
+A small Python greeting example for learning Git and GitHub.
+
+Run tests: python -m unittest -v
+
+Workflow: practice branches and pull requests.
